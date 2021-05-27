@@ -49,7 +49,7 @@ function useSection() {
         contentMaxWidth,
         sectionHeight,
 
-    }
+    };
 
 
     export { Section, useSection};
